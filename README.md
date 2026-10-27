@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DonorDock is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://donordock.com/
+DonorDock provides a donor development platform for growing nonprofits, offering tools for donor management, online giving, fundraising, and project management. The SaaS solution integrates with thousands of apps and supports AI-driven fundraising, aiming to help nonprofit teams build relationships and increase donations.
+
+**Areas:** Nonprofit · SaaS · Fundraising · Donor Management · AI
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://donordock.com/)
+- [Pricing](https://www.donordock.com/pricing)
+- [Sign up](https://www.donordock.com/integrations/signupgenius)
+- [Terms of service](https://www.donordock.com/terms-conditions-privacy-policy)
+- [Status](https://status.donordock.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/donordock/](https://apis.io/providers/donordock/).
